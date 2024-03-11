@@ -105,3 +105,35 @@ A CDN stores static content (images, CSS, JavaScript) on servers around the worl
 Use tools like Google PageSpeed Insights or GTmetrix to regularly monitor your website's performance and identify areas for further improvement.
 Test any changes you make to ensure they don't introduce unintended side effects.
 
+## Custom Post Types:
+
+**1. Explain the concept of a custom post type in WordPress, and how you would create one.**
+
+**Answer:**
+Custom post types extend WordPress's default post types (posts and pages) to create new content types tailored to your website's specific needs (e.g., products, events, testimonials).
+**Creating a Custom Post Type:**
+- Use the `register_post_type` function in a plugin or theme's `functions.php` file.
+- Define arguments for the post type, including labels, singular and plural names, supports (e.g., featured images, comments), rewrite rules (URLs), and taxonomies (categories or tags).
+
+## Client Requests:
+
+**1. How would you handle a situation where a client requests a feature that's not feasible or secure within WordPress?**
+
+**Answer:**
+1. **Understand the Client's Need:** Clearly understand the underlying goal the client is trying to achieve with the requested feature.
+2. **Explain Limitations:** Explain the technical limitations or security implications of the requested feature.
+3. **Propose Alternatives:** Suggest alternative approaches that achieve a similar outcome while being secure and feasible within WordPress's capabilities.
+4. **Transparency and Compromise:** Maintain transparency throughout the discussion and be willing to compromise on the implementation details to meet the client's needs as much as possible, while keeping security and best practices in mind.
+
+## Version Control:
+
+**1. What are some best practices for version control (e.g., Git) when developing WordPress themes and plugins?**
+
+**Answer:**
+1. **Initialize a Git Repository:** Initialize a Git repository for your theme or plugin directory to track changes.
+2. **Commit Regularly:** Commit changes frequently with clear and concise commit messages.
+3. **Branching and Merging:** Use branching for development and feature work, merging them into the main branch when ready.
+4. **Push and Pull:** Regularly push changes to a remote repository and pull updates from other developers.
+5. **Consider Version Control Plugins:** Explore version control plugins for WordPress to streamline the process within your WordPress environment.
+
+
