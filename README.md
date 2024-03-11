@@ -14,7 +14,7 @@ WordPress.com is a hosted platform where you don't have full control over the si
 
 ## Technical Skills:
 
-**1. Describe the process of creating a custom WordPress theme from scratch.**
+**3. Describe the process of creating a custom WordPress theme from scratch.**
 
 **Answer:**
 1. **Planning and Design:** Sketch wireframes, define user flows, and choose color schemes and typography.
@@ -27,7 +27,7 @@ WordPress.com is a hosted platform where you don't have full control over the si
 
 ## Troubleshooting:
 
-**1. Explain how you would troubleshoot a conflict between plugins on a WordPress site.**
+**4. Explain how you would troubleshoot a conflict between plugins on a WordPress site.**
 
 **Answer:**
 1. **Deactivate All Plugins:** Start by deactivating all plugins and testing if the issue persists.
@@ -38,7 +38,7 @@ WordPress.com is a hosted platform where you don't have full control over the si
 
 ## WordPress Hooks and Actions:
 
-**1. What are WordPress hooks and actions, and how would you use them to customize functionality?**
+**5. What are WordPress hooks and actions, and how would you use them to customize functionality?**
 
 **Answer:**
 - **Hooks:** Integration points within WordPress's core execution flow that allow you to inject your custom code at specific points.
@@ -48,7 +48,7 @@ WordPress.com is a hosted platform where you don't have full control over the si
 
 ## Security and Performance:
 
-**1. Describe your approach to securing a WordPress website.**
+**6. Describe your approach to securing a WordPress website.**
 
 **Answer:**
 1. **Strong Passwords:** Enforce strong passwords for all users and administrators. Use a password manager.
@@ -59,6 +59,7 @@ WordPress.com is a hosted platform where you don't have full control over the si
 6. **Secure Hosting:** Choose a reputable hosting provider with security measures like intrusion detection and prevention systems.
 
 ## WordPress Website Performance Optimization:
+**7. Ho to speed up WordPress website.**
 
 **1. Caching:**
 
@@ -107,7 +108,7 @@ Test any changes you make to ensure they don't introduce unintended side effects
 
 ## Custom Post Types:
 
-**1. Explain the concept of a custom post type in WordPress, and how you would create one.**
+**8. Explain the concept of a custom post type in WordPress, and how you would create one.**
 
 **Answer:**
 Custom post types extend WordPress's default post types (posts and pages) to create new content types tailored to your website's specific needs (e.g., products, events, testimonials).
@@ -117,7 +118,7 @@ Custom post types extend WordPress's default post types (posts and pages) to cre
 
 ## Client Requests:
 
-**1. How would you handle a situation where a client requests a feature that's not feasible or secure within WordPress?**
+**9. How would you handle a situation where a client requests a feature that's not feasible or secure within WordPress?**
 
 **Answer:**
 1. **Understand the Client's Need:** Clearly understand the underlying goal the client is trying to achieve with the requested feature.
@@ -127,7 +128,7 @@ Custom post types extend WordPress's default post types (posts and pages) to cre
 
 ## Version Control:
 
-**1. What are some best practices for version control (e.g., Git) when developing WordPress themes and plugins?**
+**10. What are some best practices for version control (e.g., Git) when developing WordPress themes and plugins?**
 
 **Answer:**
 1. **Initialize a Git Repository:** Initialize a Git repository for your theme or plugin directory to track changes.
