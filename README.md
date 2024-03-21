@@ -190,7 +190,7 @@ Imagine block templates as pre-designed layouts built entirely using Gutenberg b
 
 In summary, block templates are the building blocks of block themes. They provide a structured and reusable way to design and assemble different sections and pages of your WordPress website using the Gutenberg editor.
 
-##13. Custom Block Patterns in Block Themes:
+## 13. Custom Block Patterns in Block Themes:
 
 **How do custom block patterns contribute to creating reusable and consistent layouts within a block theme?**
 
