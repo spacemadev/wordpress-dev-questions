@@ -471,5 +471,5 @@ In a WordPress Multisite network, you'll encounter two main types of sites:
 **Enqueue Scripts and Styles:** Within your plugin's code, you'll need to use WordPress functions like `wp_enqueue_script` and `wp_enqueue_style` to load the necessary JavaScript and CSS files for your block.
 
 
-More questions with answers here [50 WordPress developer interview questions with answers 2024]([https://openai.com](https://spacema-dev.com/wordpress-developer-interview-questions-with-answers/)https://spacema-dev.com/wordpress-developer-interview-questions-with-answers/) .
+More questions with answers here [50 WordPress developer interview questions with answers 2024](https://spacema-dev.com/wordpress-developer-interview-questions-with-answers/)https://spacema-dev.com/wordpress-developer-interview-questions-with-answers/) .
 
